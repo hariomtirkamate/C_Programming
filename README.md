@@ -71,7 +71,7 @@ If you have optimized solutions, better code examples, or want to add new progra
 
 This project is licensed under the MIT License.
 
-##👩‍💻 Author
+##  👩‍💻 Author
 Hariom Tirkamte.
 E-Mail: haritirkamte@gmail.com
 Electronics & Telecommunication Engineering Student
