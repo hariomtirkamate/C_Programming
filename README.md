@@ -56,9 +56,9 @@ If you have optimized solutions, better code examples, or want to add new progra
 
 1. Fork the repository.
 
-3. Create a new branch:
+2. Create a new branch:
                     Bash:  git checkout -b feature/AddStructExample
-   
+
 3.Commit your changes:
                     Bash:  git commit -m "feat: Added program for struct initialization"
    
